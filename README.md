@@ -7,7 +7,7 @@ Kacic et al. 2021 - Fusing Sentinel-1 and -2 to model GEDI-derived vegetation st
 Kacic et al. 2022 - Forest Biodiversity Monitoring Based on Remotely Sensed Spectral Diversity A Review
 
 ### 2023
- Holzwarth et al. 2023 - Earth-Observation-Based Monitoring of Forests in Germany Recent Progress and Research Frontiers A Review
+ Holzwarth et al. 2023 - Earth-Observation-Based Monitoring of Forests in Germany Recent Progress and Research Frontiers A Review \n
  Kacic et al. 2023 - Forest Structure Characterization in Germany
  Salinas et al. 2023 - Impacts of national governments on the forest cover loss in Paraguayan Chaco between 1999 and 2021
  Torresani et al. 2023 - LiDAR GEDI derived tree canopy height heterogeneity reveals patterns of biodiversity in forest ecosystems
