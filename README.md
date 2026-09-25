@@ -22,8 +22,8 @@
 **Wegler et al. 2025** - Tree species from space a new product for Germany based on Sentinel-1 and -2 time series <br>
 
 ### 2026
-**Jaggy et al. 2026** - Towards a near real-time remote sensing monitoring system of forest canopy cover loss in Bavaria Germany <br>
-**Kortmann et al. 2026** - The positive effects of canopy openness across post-disturbance management on insect diversity <br>
+- **Jaggy et al. 2026** - Towards a near real-time remote sensing monitoring system of forest canopy cover loss in Bavaria Germany <br>
+- **Kortmann et al. 2026** - The positive effects of canopy openness across post-disturbance management on insect diversity <br>
 **Moudrý et al. 2026** - Spaceborne Canopy Height Products Should Be Complemented With Airborne Laser Scanning Data Toward a European Canopy Height Model <br>
 **Thonfeld et al. 2026** - Forest canopy cover loss dynamics in Germany between 2017 and 2024 Revealing regional differences <br>
 **Torresani et al. 2026** - Evaluating the reliability of the 1-meter resolution meta-estimated global canopy height map for estimating forest structural metrics in Alpine environment <br>
